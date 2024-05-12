@@ -16,7 +16,7 @@ http://xtv.ooo:8080/Sehrish/12345/245906
 http://xtv.ooo:8080/Sehrish/12345/150480
 
 
-#EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1624_1.png" group-title="Sports", Sony Ten 1
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png" group-title="Sports", Sony Ten 1
 http://xtv.ooo:8080/Sehrish/12345/167595
 
 #EXTINF:-1  tvg-logo="https://static.epg.best/my/AstroOnDemand361.my.png" group-title="Sports", Astro Cricket HD
@@ -30,3 +30,6 @@ http://xtv.ooo:8080/Sehrish/12345/167593
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/50a6bc80d5e23b687df1568a1e850667.png" group-title="Kids", Disney Channel US
 http://xtv.ooo:8080/Sehrish/12345/346464
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/WillowCricket.us.png" group-title="Sports", Willow Cricket HD
+http://xtv.ooo:8080/Sehrish/12345/167583
