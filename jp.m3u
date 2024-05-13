@@ -34,5 +34,8 @@ http://xtv.ooo:8080/Sehrish/12345/346464
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/WillowCricket.us.png" group-title="Sports", Willow Cricket HD
 http://xtv.ooo:8080/Sehrish/12345/167583
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png" group-title="Indian Bangla", SONY AATH
+http://xtv.ooo:8080/Sehrish/12345/245989
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/8XM_Logo.png" group-title="Music",: 8XM
 http://xtv.ooo:8080/Sehrish/12345/103668
