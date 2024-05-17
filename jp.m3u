@@ -39,3 +39,36 @@ http://xtv.ooo:8080/Sehrish/12345/245989
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/8XM_Logo.png" group-title="Music",: 8XM
 http://xtv.ooo:8080/Sehrish/12345/103668
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="Kids", DISNEY CHANNEL
+http://xtv.ooo:8080/Sehrish/12345/167551
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="Kids", Disney Junior
+http://xtv.ooo:8080/Sehrish/12345/153175
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Movies", ZEE CINEMA (4K)
+http://xtv.ooo:8080/Sehrish/12345/109958
+
+
+#EXTINF:-1 tvg-logo="http://openboxv8s.com/india/star_gold_hd.jpg" group-title="Movies", Star GOLD 
+http://xtv.ooo:8080/Sehrish/12345/109959
+
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="Movies", Sony Max
+http://xtv.ooo:8080/Sehrish/12345/221259
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="Movies", COLORS CINEPLEX FHD
+http://xtv.ooo:8080/Sehrish/12345/206310
+
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/06a89cbfbaf2158279d67c8a597bb740.png" group-title="Kids", Disney XD
+http://xtv.ooo:8080/Sehrish/12345/346256
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="Informative", History TV 18 FHD
+http://xtv.ooo:8080/Sehrish/12345/206295
+
+#EXTINF:-1 tvg-logo="http://openboxv8s.com/india/sony-ten2.png" group-title="Movies", Sony Ten 2 
+http://xtv.ooo:8080/Sehrish/12345/109984
