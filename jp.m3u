@@ -13,11 +13,11 @@ http://xtv.ooo:8080/Sehrish/12345/245893
 http://xtv.ooo:8080/Sehrish/12345/245906
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Hungama_tv_logo.png" group-title="Kids",Hungama
-http://xtv.ooo:8080/Sehrish/12345/150480
+https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png" group-title="Sports", Sony Ten 1
-http://xtv.ooo:8080/Sehrish/12345/167595
+https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 
 #EXTINF:-1  tvg-logo="https://static.epg.best/my/AstroOnDemand361.my.png" group-title="Sports", Astro Cricket HD
 http://xtv.ooo:8080/Sehrish/12345/167581
