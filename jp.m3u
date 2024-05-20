@@ -1,13 +1,17 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://openboxv8s.com/india/star_jalsha.png" group-title="Indian Bangla", Star Jalsa HD
-http://xtv.ooo:8080/Sehrish/12345/245898
+http://opplex.tv:8080/live/2312211/1616616/245898.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXHfSJ-c93O7x4E7uYJTdy5R0zf8OAp4rfq_HF0fXIMw&s" group-title="Entertainment", Jalsha Movies
+http://starshare.live:8080/live/T20C227070225533/202210886677/98884.ts
+
 
 #EXTINF:-1 tvg-logo="http://openboxv8s.com/india/zee_bangla_cinema.jpg" group-title="Indian Bangla",Zee Bangla Cinema
 http://xtv.ooo:8080/Sehrish/12345/245897
 
 #EXTINF:-1 tvg-logo="http://openboxv8s.com/india/zee_bangla.jpg" group-title="Indian Bangla", Zee Bangla HD
-http://xtv.ooo:8080/Sehrish/12345/245893
+http://opplex.tv:8080/live/2312211/1616616/245893.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="Indian Bangla", SUN Bangla
 http://xtv.ooo:8080/Sehrish/12345/245906
@@ -35,7 +39,7 @@ http://xtv.ooo:8080/Sehrish/12345/346464
 http://xtv.ooo:8080/Sehrish/12345/167583
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png" group-title="Indian Bangla", SONY AATH
-http://xtv.ooo:8080/Sehrish/12345/245989
+http://opplex.tv:8080/live/2312211/1616616/245989.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/8XM_Logo.png" group-title="Music",: 8XM
 http://xtv.ooo:8080/Sehrish/12345/103668
@@ -49,15 +53,15 @@ http://xtv.ooo:8080/Sehrish/12345/153175
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Movies", ZEE CINEMA (4K)
-http://xtv.ooo:8080/Sehrish/12345/109958
+http://xtv.ooo:8080/live/logixs1176/logixs7562/109958.ts
 
 
 #EXTINF:-1 tvg-logo="http://openboxv8s.com/india/star_gold_hd.jpg" group-title="Movies", Star GOLD 
-http://xtv.ooo:8080/Sehrish/12345/109959
+http://xtv.ooo:8080/live/logixs1176/logixs7562/109959.ts
 
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="Movies", Sony Max
-http://xtv.ooo:8080/Sehrish/12345/221259
+http://xtv.ooo:8080/live/logixs1176/logixs7562/109957.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="Movies", COLORS CINEPLEX FHD
@@ -72,3 +76,6 @@ http://xtv.ooo:8080/Sehrish/12345/206295
 
 #EXTINF:-1 tvg-logo="http://openboxv8s.com/india/sony-ten2.png" group-title="Movies", Sony Ten 2 
 http://xtv.ooo:8080/Sehrish/12345/109984
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwZMUf0ZcNZwvUelvRm5KrhHb9YSfEB4UJKof5DIaIFw&s" group-title="Entertainment", Sony Pix
+http://starshare.live:8080/live/T20C227070225533/202210886677/9381.ts
