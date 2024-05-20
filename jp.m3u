@@ -35,6 +35,9 @@ http://xtv.ooo:8080/Sehrish/12345/167593
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/50a6bc80d5e23b687df1568a1e850667.png" group-title="Kids", Disney Channel US
 http://xtv.ooo:8080/Sehrish/12345/346464
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/2560px-Nick.svg.png" group-title="Kids", Nick
+http://45.137.206.58:29820/ghLs2zdZSnFvTT000031b73936578b60223d9ba5fe706f5a8a7bde686e/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/WillowCricket.us.png" group-title="Sports", Willow Cricket HD
 http://xtv.ooo:8080/Sehrish/12345/167583
 
