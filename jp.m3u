@@ -23,6 +23,12 @@ http://103.131.214.129:9985/stream/channelid/387666878.ts?ticket=47008A6FE90C547
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png" group-title="Sports", Sony Ten 1
 https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FVZUAQVzD.png&w=256&q=75" group-title="Sports Channels", Star Sports 2 HD
+http://opplex.tv:8080/live/2312211/1616616/167576.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/0/0e/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F.png" group-title="Sports Channels", Star Sports 3 SD
+http://opplex.tv:8080/live/2312211/1616616/167577.ts
+
 #EXTINF:-1  tvg-logo="https://static.epg.best/my/AstroOnDemand361.my.png" group-title="Sports", Astro Cricket HD
 http://xtv.ooo:8080/Sehrish/12345/167581
 
