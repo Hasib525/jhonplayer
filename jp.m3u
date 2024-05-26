@@ -18,13 +18,28 @@ http://xtv.ooo:8080/Sehrish/12345/245906
 
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-768-j5m31cfs-v1/imageContent-768-j5m31cfs-m1.png" group-title="Hindi Movies",Bhojpuri Cinema
 https://ardinesh-tataplay.puspas.com.np/live/tataplay-universal/bhojpuri-cinema/index.ts
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png" group-title="Sports", Sony Ten 1
-http://starshare.live:8080/live/Sylvia/Sylvia/154.ts
-
-#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sports", Sony Ten 3
-http://starshare.live:8080/live/Sylvia/Sylvia/146.ts
-
+#EXTINF:-1 tvg-id="ts81" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png" group-title="Sports",SONY SPORTS TEN 1 HD
+https://ardinesh-tataplay.puspas.com.np/live/tataplay-universal/sony-sports-ten-1-hd/index.ts
+#EXTINF:-1 tvg-id="ts150" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-513-j5jzouqw-v5/imageContent-513-j5jzouqw-m7.png" group-title="Sports",SONY SPORTS TEN 1
+https://ardinesh-tataplay.puspas.com.np/live/tataplay-universal/sony-sports-ten-1/index.ts
+#EXTINF:-1 tvg-id="ts462" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png" group-title="Sports",SONY SPORTS TEN 2 HD
+https://ardinesh-tataplay.puspas.com.np/live/tataplay-universal/sony-sports-ten-2-hd/index.ts
+#EXTINF:-1 tvg-id="ts170" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-742-j5l50le0-v5/imageContent-742-j5l50le0-m7.png" group-title=" Sports",SONY SPORTS TEN 2
+https://ardinesh-tataplay.puspas.com.np/live/tataplay-universal/sony-sports-ten-2/index.ts
+#EXTINF:-1 tvg-id="ts464" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png" group-title="Hindi;Sports;HD",SONY SPORTS TEN 3 HD
+https://ardinesh-tataplay.puspas.com.np/live/tataplay-universal/sony-sports-ten-3-hd/index.ts
+#EXTINF:-1 tvg-id="ts171" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-739-j5l4y6yw-v5/imageContent-739-j5l4y6yw-m5.png" group-title="Sports",SONY SPORTS TEN 3
+https://ardinesh-tataplay.puspas.com.np/live/tataplay-universal/sony-sports-ten-3/index.ts
+#EXTINF:-1 tvg-id="ts35" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png" group-title="Sports",SONY SPORTS TEN 5 HD
+https://ardinesh-tataplay.puspas.com.np/live/tataplay-universal/sony-sports-ten-5-hd/index.ts
+#EXTINF:-1 tvg-id="ts1033" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-74232-la6z41u8-v3/imageContent-74232-la6z41u8-m5.png" group-title="Sports",Sports 18 - 1 HD
+https://ardinesh-tataplay.puspas.com.np/live/tataplay-universal/sports-18-1-hd/index.ts
+#EXTINF:-1 tvg-id="ts980" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-70046-l21cybww-v2/imageContent-70046-l21cybww-m5.png" group-title=" Sports",Sports 18 - 1
+https://ardinesh-tataplay.puspas.com.np/live/tataplay-universal/sports-18-1/index.ts
+#EXTINF:-1 tvg-id="ts812" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52842-k980h8vc-v1/imageContent-52842-k980h8vc-m2.png" group-title="Sports",Eurosport HD
+https://ardinesh-tataplay.puspas.com.np/live/tataplay-universal/eurosport-hd/index.ts
+#EXTINF:-1 tvg-id="ts693" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35309-jqxwmcq0-v4/imageContent-35309-jqxwmcq0-m4.png" group-title="Sports",Eurosport
+https://ardinesh-tataplay.puspas.com.np/live/tataplay-universal/eurosport/index.ts
 
 #EXTINF:-1 tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FVZUAQVzD.png&w=256&q=75" group-title="Sports", Star Sports 2 HD
 http://opplex.tv:8080/live/2312211/1616616/167576.ts
@@ -86,8 +101,6 @@ http://xtv.ooo:8080/Sehrish/12345/346256
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="Informative", History TV 18 FHD
 http://xtv.ooo:8080/Sehrish/12345/206295
 
-#EXTINF:-1 tvg-logo="http://openboxv8s.com/india/sony-ten2.png" group-title="Movies", Sony Ten 2 
-http://xtv.ooo:8080/Sehrish/12345/109984
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwZMUf0ZcNZwvUelvRm5KrhHb9YSfEB4UJKof5DIaIFw&s" group-title="Entertainment", Sony Pix
 http://starshare.live:8080/live/T20C227070225533/202210886677/9381.ts
