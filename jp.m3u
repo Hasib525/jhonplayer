@@ -104,3 +104,6 @@ http://xtv.ooo:8080/Sehrish/12345/206295
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwZMUf0ZcNZwvUelvRm5KrhHb9YSfEB4UJKof5DIaIFw&s" group-title="Entertainment", Sony Pix
 http://starshare.live:8080/live/T20C227070225533/202210886677/9381.ts
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43109-jxzlyrjc-v1/imageContent-43109-jxzlyrjc-m1.png" group-title="Hindi Movies",B4U Bhojpuri
+https://ardinesh-tataplay.puspas.com.np/live/tataplay-universal/b4u-bhojpuri/index.ts
