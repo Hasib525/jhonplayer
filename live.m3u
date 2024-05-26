@@ -1,5 +1,41 @@
 #EXTM3U
-
-#EXTINF:-1 group-title="Live Events" tvg-logo="https://i.ibb.co/9nXGBSM/Pirates-Tv-3.png",Live Event 1 
-http://starshare.live:8080/live/T20C227070225533/202210886677/304286.ts
-
+#EXTINF:-1 group-title="CricHD-PiratesTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",Astro Cricket HD
+http://157.245.110.206:5000/@Piratestv_update?id=astrocric
+#EXTINF:-1 group-title="CricHD-PiratesTV" tvg-logo="https://i.postimg.cc/mD2B8h2h/Star-Sports-1-HD.png",Star Sports 1 HD
+http://157.245.110.206:5000/@Piratestv_update?id=star1in
+#EXTINF:-1 group-title="CricHD-PiratesTV" tvg-logo="https://i.postimg.cc/tg9j476D/Star-Sports-1-HD-Hindi.png",Star Sports 1 Hindi HD
+http://157.245.110.206:5000/@Piratestv_update?id=starhindi
+#EXTINF:-1 group-title="CricHD-PiratesTV" tvg-logo="https://i.postimg.cc/XNCwDYR6/Willow.png",Willow HD
+http://157.245.110.206:5000/@Piratestv_update?id=willowusa
+#EXTINF:-1 group-title="CricHD-PiratesTV" tvg-logo="https://i.postimg.cc/KvQw4fJN/Willow-Xtra.png",Willow Xtra
+http://157.245.110.206:5000/@Piratestv_update?id=willowextra
+#EXTINF:-1 group-title="CricHD-PiratesTV" tvg-logo="https://i.postimg.cc/nr32VRp9/Sky-Sports-Main-Event.png",Sky Sports Main Event
+http://157.245.110.206:5000/@Piratestv_update?id=skysme
+#EXTINF:-1 group-title="CricHD-PiratesTV" tvg-logo="https://i.postimg.cc/x1J5Y37q/Sky-Sports-Cricket.png",Sky Sports Cricket
+http://157.245.110.206:5000/@Piratestv_update?id=skyscric
+#EXTINF:-1 group-title="CricHD-PiratesTV" tvg-logo="https://i.postimg.cc/t70T6yXK/Sky-Sports-Action.png",Sky Sports Action
+http://157.245.110.206:5000/@Piratestv_update?id=skysact
+#EXTINF:-1 group-title="CricHD-PiratesTV" tvg-logo="https://i.postimg.cc/qB1x3FHz/Sky-Sports-Golf.png",Sky Sports Golf
+http://157.245.110.206:5000/@Piratestv_update?id=skysgol
+#EXTINF:-1 group-title="CricHD-PiratesTV" tvg-logo="https://i.postimg.cc/85jMBpSc/Sky-Sports-Premiere-League.png",Sky Sports Premier League
+http://157.245.110.206:5000/@Piratestv_update?id=skysprem
+#EXTINF:-1 group-title="CricHD-PiratesTV" tvg-logo="https://i.postimg.cc/7LPgh1tg/Sky-Sports-Football.png",Sky Sports Football
+http://157.245.110.206:5000/@Piratestv_update?id=skysfott
+#EXTINF:-1 group-title="CricHD-PiratesTV" tvg-logo="https://i.postimg.cc/PqG5FdYN/Sky-Sports-Arena.png",Sky Sports Arena
+http://157.245.110.206:5000/@Piratestv_update?id=skysare
+#EXTINF:-1 group-title="CricHD-PiratesTV" tvg-logo="https://i.postimg.cc/63t5tzHX/Sky-Sports-F1.png",Sky Sports F1
+http://157.245.110.206:5000/@Piratestv_update?id=skysfor1
+#EXTINF:-1 group-title="CricHD-PiratesTV" tvg-logo="https://i.postimg.cc/zDdXYCKs/Sky-Sports-Mix.png",Sky Sports Mix
+http://157.245.110.206:5000/@Piratestv_update?id=skysmixx
+#EXTINF:-1 group-title="CricHD-PiratesTV" tvg-logo="https://i.postimg.cc/4d2Cq1qw/BT-Sports-1-HD.png",BT Sport 1
+http://157.245.110.206:5000/@Piratestv_update?id=bbtsp1
+#EXTINF:-1 group-title="CricHD-PiratesTV" tvg-logo="https://i.postimg.cc/RZTvGwSp/BT-Sports-2-HD.png",BT Sport 2
+http://157.245.110.206:5000/@Piratestv_update?id=bbtsp2
+#EXTINF:-1 group-title="CricHD-PiratesTV" tvg-logo="https://i.postimg.cc/Jh4MFttr/BT-Sports-3-HD.png",BT Sport 3
+http://157.245.110.206:5000/@Piratestv_update?id=bbtsp3
+#EXTINF:-1 group-title="CricHD-PiratesTV" tvg-logo="https://i.postimg.cc/K4SmpN3w/BT-Sport-4.png",BT Sport 4
+http://157.245.110.206:5000/@Piratestv_update?id=bbtespn
+#EXTINF:-1 group-title="CricHD-PiratesTV" tvg-logo="https://i.postimg.cc/K8s3JXvH/Eurosport-1.png",EuroSport 1
+http://157.245.110.206:5000/@Piratestv_update?id=eurosp1
+#EXTINF:-1 group-title="CricHD-PiratesTV" tvg-logo="https://i.postimg.cc/Px1LXPbg/Eurosport-2.png",EuroSport 2
+http://157.245.110.206:5000/@Piratestv_update?id=eurosp2
